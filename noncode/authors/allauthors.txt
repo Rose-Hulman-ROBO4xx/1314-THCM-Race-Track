@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 Jordan Arnt
-=======
 Wesley McCullough
-
 John Puhr
-
 Joel Becker
->>>>>>> 7b1a498186e90d39a24c18185e36fb05748dc5cd
+
