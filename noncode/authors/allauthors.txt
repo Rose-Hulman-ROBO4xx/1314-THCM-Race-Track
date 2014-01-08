@@ -2,6 +2,14 @@ Wesley McCullough
 
 John Puhr
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 Joel Becker
 
 Jordan Arnt
+=======
+Joel Becker
+>>>>>>> 7b1a498186e90d39a24c18185e36fb05748dc5cd
+=======
+Joel Becker
+>>>>>>> 7b1a498186e90d39a24c18185e36fb05748dc5cd
