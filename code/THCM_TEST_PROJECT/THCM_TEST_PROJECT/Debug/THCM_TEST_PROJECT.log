@@ -1,0 +1,198 @@
+﻿Build started 2/18/2014 11:03:10 AM.
+     1>Project "C:\Users\mccullwc\Documents\Visual Studio 2012\Projects\THCM_TEST_PROJECT\THCM_TEST_PROJECT\THCM_TEST_PROJECT.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\mccullwc\Documents\Courses\ROBO420\SFML-2.1\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(271): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(272): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(276): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(277): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(281): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(282): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(299): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(300): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(304): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(305): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(327): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(328): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(332): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(333): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(337): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(338): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(345): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(350): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(355): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(361): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(843): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(845): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(846): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(847): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(848): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(850): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(852): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(853): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(854): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(856): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(857): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(858): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(859): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(860): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(861): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(862): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(863): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(864): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(865): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(871): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(876): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(880): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(882): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(898): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(901): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1172): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1180): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1188): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1196): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1204): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1212): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1220): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1228): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1236): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1244): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1252): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1260): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1268): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1281): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1323): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1402): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1403): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1416): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1417): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1459): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1460): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1468): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1469): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1486): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1487): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1500): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1501): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1542): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1543): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1551): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1552): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1570): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1571): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1585): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1586): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1619): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1620): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1629): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1630): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1648): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1649): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1663): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1664): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1693): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1694): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1703): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1704): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1876): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1877): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1891): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1892): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1905): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1906): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1916): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1917): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1935): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1936): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1950): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1951): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1964): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1965): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1975): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1976): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1996): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(1997): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2011): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2012): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2024): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2025): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2035): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2036): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2056): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2057): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2071): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2072): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2084): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2085): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2095): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2096): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2116): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2117): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2131): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2132): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2144): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2145): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2155): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2156): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2176): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2177): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2191): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2192): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2204): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2205): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2215): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2216): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2236): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2237): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2251): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2252): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2264): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2265): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2275): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2276): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2296): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2297): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2311): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2312): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2324): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2325): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2335): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2336): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2356): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2357): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2371): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2372): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2384): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2385): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2395): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2396): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2416): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2417): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2431): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2432): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2470): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2471): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2481): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2482): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2500): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2501): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2515): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2516): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2547): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2548): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2558): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\mccullwc\documents\visual studio 2012\projects\thcm_test_project\thcm_test_project\main.cpp(2559): warning C4305: 'argument' : truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mccullwc\Documents\Visual Studio 2012\Projects\THCM_TEST_PROJECT\Debug\THCM_TEST_PROJECT.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\mccullwc\Documents\Courses\ROBO420\SFML-2.1\lib" /LIBPATH:C:\Users\mccullwc\Documents\Courses\ROBO410\LeapDeveloperKit\LeapSDK\lib\x86 "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-network-d.lib" "sfml-audio-d.lib" "sfml-system-d.lib" Leapd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\mccullwc\Documents\Visual Studio 2012\Projects\THCM_TEST_PROJECT\Debug\THCM_TEST_PROJECT.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mccullwc\Documents\Visual Studio 2012\Projects\THCM_TEST_PROJECT\Debug\THCM_TEST_PROJECT.lib" /MACHINE:X86 Debug\Main.obj
+         Debug\rs232.obj
+         THCM_TEST_PROJECT.vcxproj -> C:\Users\mccullwc\Documents\Visual Studio 2012\Projects\THCM_TEST_PROJECT\Debug\THCM_TEST_PROJECT.exe
+       PostBuildEvent:
+         copy C:\Users\mccullwc\Documents\Courses\ROBO410\LeapDeveloperKit\LeapSDK\lib\x86\Leapd.dll "C:\Users\mccullwc\Documents\Visual Studio 2012\Projects\THCM_TEST_PROJECT\Debug\"
+         :VCEnd
+                 1 file(s) copied.
+     1>Done Building Project "C:\Users\mccullwc\Documents\Visual Studio 2012\Projects\THCM_TEST_PROJECT\THCM_TEST_PROJECT\THCM_TEST_PROJECT.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.77
